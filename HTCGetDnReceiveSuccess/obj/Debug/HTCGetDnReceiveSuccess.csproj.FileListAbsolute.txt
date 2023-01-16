@@ -1,0 +1,7 @@
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\bin\Debug\HTCGetDnReceiveSuccess.exe
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\bin\Debug\HTCGetDnReceiveSuccess.pdb
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Debug\HTCGetDnReceiveSuccess.csproj.AssemblyReference.cache
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Debug\HTCGetDnReceiveSuccess.csproj.CoreCompileInputs.cache
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Debug\HTCGetDnReceiveSuccess.csproj.CopyComplete
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Debug\HTCGetDnReceiveSuccess.exe
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Debug\HTCGetDnReceiveSuccess.pdb

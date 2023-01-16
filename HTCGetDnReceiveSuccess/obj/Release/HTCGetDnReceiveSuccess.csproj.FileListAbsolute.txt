@@ -1,0 +1,8 @@
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\bin\Release\HTCGetDnReceiveSuccess.exe
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\bin\Release\HTCGetDnReceiveSuccess.pdb
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\bin\Release\MySql.Data.dll
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Release\HTCGetDnReceiveSuccess.csproj.AssemblyReference.cache
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Release\HTCGetDnReceiveSuccess.csproj.CoreCompileInputs.cache
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Release\HTCGetDnReceiveSuccess.csproj.CopyComplete
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Release\HTCGetDnReceiveSuccess.exe
+D:\src\cosmo-get-dnsuccess\HTCGetDnReceiveSuccess\obj\Release\HTCGetDnReceiveSuccess.pdb
