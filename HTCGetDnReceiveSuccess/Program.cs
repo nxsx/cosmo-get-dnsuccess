@@ -8,8 +8,8 @@ namespace HTCGetDnReceiveSuccess
         static void Main(string[] args)
         {
             ScheduleTimer.SetTime();
-
             Console.WriteLine("Executing...");
+
             Console.ReadKey();
         }
     }

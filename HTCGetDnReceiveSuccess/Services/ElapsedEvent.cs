@@ -15,16 +15,19 @@ namespace HTCGetDnReceiveSuccess.Services
                 TransferDnToMoldShot.DataTransferWAC();
                 TransferDnToMoldShot.DataTransferSAC();
 
-                ScheduleTimer.SetTime();
                 Console.WriteLine("Executing...");
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.ToString());
+                Console.WriteLine(ex.Message.ToString());
                 Console.WriteLine("System interval 300000msec");
-                System.Threading.Thread.Sleep(300000);
 
+                System.Threading.Thread.Sleep(300000);
                 Execute(sender, e);
+            }
+            finally
+            {
+                ScheduleTimer.SetTime();
             }
         }
     }
